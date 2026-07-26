@@ -21,7 +21,7 @@ A clean Installation.
 2 - Create and configure the Domain. I used the name lab.local
 3 - After the automatic restart, create a user using the Server Manager (again). Tools > Active Directory Users and Computers. I created an user with the credentials LAB\tuser password:theP@55word
 4 - Boot the client VM and make it a part of the domain. Right-click Start > System > Rename this PC (Advanced). After introducing the domain name (lab.local) and login in with the Administrator credentials, the computer will restart and be a part of the Windows Domain.
-5 - A new option will appear in the login screen (Other user) and it will allow us to login to the Domain with the user we created earlier. See screenshot.
+5 - A new option will appear in the login screen (Other user) and it will allow us to login to the Domain with the user we created earlier. See screenshot
 
 #### Outcome:
 A Windows Domain has been created and the client machine is a part of it. It will allow us to use the Active Directory and change configurations on the client machine without having to directly tinker with it.
