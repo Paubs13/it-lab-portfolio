@@ -9,10 +9,14 @@ Environment: VirtualBox — Windows 10 Client / Windows Server 2022 DC
 
 --------------------------------------------------------------------
 
-Problem Description:
+#### Problem Description:
 
-Root Cause:
 
-Resolution Steps:
+#### Root Cause:
 
-Outcome:
+
+#### Resolution Steps:
+
+
+#### Outcome:
+
