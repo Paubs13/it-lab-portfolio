@@ -1,7 +1,8 @@
 # Incident Report
-A+ Objective:
 
 Ticket #: LAB00X
+
+A+ Objective:
 
 Date: YYYY - MM - DD
 
