@@ -1,4 +1,4 @@
-## Incident Report
+# Incident Report
 A+ Objective:
 
 Ticket #: LAB00X
